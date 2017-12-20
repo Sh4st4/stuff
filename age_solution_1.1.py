@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Dec 20 00:51:06 2017
-
-@author: fltr
-"""
 
 name = input('Enter a name')
 age = int(input ('Enter the age'))
